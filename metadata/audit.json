@@ -1,0 +1,23 @@
+{
+  "output": "/content/drive/MyDrive/LeafAndroid_MobileNetV3_20261003_232027_400128",
+  "images": 9991,
+  "sources": {
+    "healthy": 8000,
+    "spot": 1991
+  },
+  "independent_groups": 8168,
+  "leaf_states": {
+    "nonempty": 3023,
+    "empty": 9,
+    "missing": 6959
+  },
+  "spot_states": {
+    "unknown": 8000,
+    "nonempty": 1808,
+    "empty": 183
+  },
+  "semantic_candidates": 0,
+  "reviewed_semantic": 0,
+  "qa_rows": 183,
+  "split_source_conflicts": 0
+}
